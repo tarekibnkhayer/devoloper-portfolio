@@ -1,6 +1,8 @@
+/* nav section work */
 nav{
     display: flex;
     justify-content: space-between;
+    margin: 0px 200px;
 }
 body{
     font-family: 'Open Sans', sans-serif;
@@ -39,5 +41,20 @@ font-size: 20px;
 font-weight: 700;
 color: white;
 padding: 15px 35px;
+
+}
+/* header section work */
+.header{
+    background: #FFF8F3;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+    
+}
+.banner img{
+    width: 580px;
+
 
 }
