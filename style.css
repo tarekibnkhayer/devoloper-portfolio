@@ -144,3 +144,12 @@ font-weight: 400;
     text-align: center;
     margin-top: 35px;
 }
+/* footer section work */
+footer{
+    margin-top: 113px;
+     background: #FFF8F3;
+     display: flex;
+     padding: 130px 230px;
+     
+}
+
